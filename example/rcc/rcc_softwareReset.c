@@ -4,9 +4,9 @@
  * \author      Weilun Fong | wlf@zhishan-iot.tk
  * \date        
  * \brief       example for software reset
- * \note        a example which shows software reset via state of \
- *              IO(connected to LED)
- * \version     v0.0
+ * \note        a example which shows software reset via state of IO (connected
+ *              to on-board LED)
+ * \version     v1.0
  * \ingroup     example
  * \remarks     test-board: ZS5110; test-MCU: STC11F16XE
 ******************************************************************************/

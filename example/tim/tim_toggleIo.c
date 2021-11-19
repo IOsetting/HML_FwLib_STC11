@@ -6,7 +6,7 @@
  * \brief       a example which shows how to toggle state of specified pin periodic
  *              via timers' interrupt
  * \note        
- * \version     v0.0
+ * \version     v1.0
  * \ingroup     example
  * \remarks     test-board: ZS5110; test-MCU: STC11F16XE
 ******************************************************************************/

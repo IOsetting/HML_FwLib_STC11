@@ -4,7 +4,7 @@
  * \author      Jiabin Hsu | zsiothsu@zhishan-iot.tk
  * \brief       operations for IAP module
  * \note        
- * \version     v0.0
+ * \version     v1.0
  * \ingroup     IAP
 ******************************************************************************/
 

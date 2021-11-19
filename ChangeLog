@@ -24,3 +24,12 @@
            (5)refactor function GPIO_configMode
            (6)optimize code writings
            (7)refactor sleep function
+
+>Version : v1.0.0
+ Alias   :
+ Date    : 2021-10-23
+ Note    : (1)fix bugs
+            - fix fatal bug of IAP module, change function IAP_eraseByte into IAP_eraseSector
+            - fix bug of function sleep is too fast in 1T mode (#2)
+            - correct wrong bit define of SMOD0 (#4)
+           (2)adapt for SDCC v4.1.0+

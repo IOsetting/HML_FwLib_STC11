@@ -5,7 +5,7 @@
  * \brief       operations for memory zone of MCU
  * \note        allow you to directly access the different memory areas of STC11
  *              series MCU
- * \version     v0.0
+ * \version     v1.0
  * \ingroup     MEM
 ******************************************************************************/
 

@@ -8,7 +8,7 @@
  *              (2) P32/P33 are connected to key
  *              (3) user had better use IRC as clock source when run this segment 
  *              of code
- * \version     v0.0
+ * \version     v1.0
  * \ingroup     example
  * \remarks     test-board: ZS5110; test-MCU: STC11F16XE
 ******************************************************************************/

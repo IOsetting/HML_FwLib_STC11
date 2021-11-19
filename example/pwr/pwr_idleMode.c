@@ -4,9 +4,9 @@
  * \author      Weilun Fong | wlf@zhishan-iot.tk
  * \date        
  * \brief       example for idle mode
- * \note        (1) a example which shows how to enter into idle mode and recover 
+ * \note        a example which shows how to enter into idle mode and recover 
  *              from it
- * \version     v0.0
+ * \version     v1.0
  * \ingroup     example
  * \remarks     test-board: ZS5110; test-MCU: STC11F16XE
 ******************************************************************************/

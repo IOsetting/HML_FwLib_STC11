@@ -6,7 +6,7 @@
  * \brief       example for get frequency
  * \note        a example which shows how to get frequency of the factory RC 
  *              clock from internal RAM
- * \version     v0.0
+ * \version     v1.0
  * \ingroup     example
  * \remarks     test-board: ZS5110; test-MCU: STC11F16XE
 ******************************************************************************/

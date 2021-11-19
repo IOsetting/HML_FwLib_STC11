@@ -4,7 +4,7 @@
  * \author      Weilun Fong | wlf@zhishan-iot.tk
  * \brief       HML configurations, this file need to be modified by users
  * \note        
- * \version     v0.0
+ * \version     v1.0
  * \ingroup     generic
 ******************************************************************************/
 

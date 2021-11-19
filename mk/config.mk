@@ -2,13 +2,13 @@
 
 # ------------------------------------------------------------------------
 # Author     : Weilun Fong | wlf@zhishan-iot.tk
-# Date       : 2020-02-14
+# Date       : 2021-10-24
 # Description: config Makefile
 # E-mail     : mcu@zhishan-iot.tk
 # Make-tool  : GNU Make (http://www.gnu.org/software/make/manual/make.html)
 # Page       : https://hw.zhishan-iot.tk/page/hml/detail/fwlib_stc11.html
 # Project    : HML_FwLib_STC11
-# Version    : v0.3.1
+# Version    : v0.4.0
 # ------------------------------------------------------------------------
 
 # @Note: Specify value of config variable via command line has higher priority
@@ -35,4 +35,10 @@ XRAM      ?=
 #    It's noticed that once use this option to compile specified .c file,
 #    user should add this option when do all targets related to build operation,
 #    such as clean and rebuild.
-MYFILE    ?= test.c
+MYFILE    ?= usr/test.c
+EXE_C     ?= $(MYFILE)
+
+# Options for number of parallel build jobs
+# [JOBS] Specify number of parallel build jobs, this variable only works
+#    during run <rebuild> target
+JOBS      ?= $(shell nproc)

@@ -5,7 +5,7 @@
  * \date        
  * \brief       show how to use HML_FwLib_STC11 to toggle GPIO bit
  * \note        a example which shows how to configure pin ALE/P45 as GPIO
- * \version     v0.0
+ * \version     v1.0
  * \ingroup     example
  * \remarks     test-board: ZS5110; test-MCU: STC11F16XE
 ******************************************************************************/

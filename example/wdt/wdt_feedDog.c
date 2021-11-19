@@ -5,7 +5,7 @@
  * \date        
  * \brief       a example of watchdog module
  * \note        
- * \version     v0.0
+ * \version     v1.0
  * \ingroup     example
  * \remarks     test-board: ZS5110; test-MCU: STC11F16XE
 ******************************************************************************/

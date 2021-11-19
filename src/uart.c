@@ -4,7 +4,7 @@
  * \author      Weilun Fong | wlf@zhishan-iot.tk
  * \brief       operations for UART
  * \note        
- * \version     v0.0
+ * \version     v1.0
  * \ingroup     UART
 ******************************************************************************/
 

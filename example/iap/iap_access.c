@@ -5,7 +5,7 @@
  * \date        
  * \brief       show how to use HML_FwLib_STC11 to execute access operation on IAP
  * \note        
- * \version     v0.0
+ * \version     v1.0
  * \ingroup     example
  * \remarks     test-board: ZS5110; test-MCU: STC11F16XE
 ******************************************************************************/

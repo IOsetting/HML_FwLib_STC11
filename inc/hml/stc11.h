@@ -4,7 +4,7 @@
  * \author      Weilun Fong | wlf@zhishan-iot.tk
  * \brief       STC11xx header file
  * \note        
- * \version     v0.0
+ * \version     v1.0
  * \ingroup     generic
 ******************************************************************************/
 
